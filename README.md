@@ -1,5 +1,5 @@
-### I'm a web and mobile developer
+### I'm a software developer
 
-Based in Christchurch, New Zealand  
-Also on [Twitter](https://twitter.com/kammerer) and [Linkedin](https://www.linkedin.com/in/kammerer)  
+Based in Nelson, New Zealand  
+Also on [Linkedin](https://www.linkedin.com/in/kammerer)  
 Founder of [Hypnotize](http://hypnotize.nz)  
